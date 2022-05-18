@@ -1,0 +1,2 @@
+# Internship_project
+This repository contains a Django Project, which focuses on Online-Verification of Imp Documents and returning QR-Code of the Docs.
